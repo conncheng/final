@@ -5,6 +5,7 @@ if ($('.home').length) {
 	    slidesToShow: 2,
 	    slidesToScroll: 2,
 	    arrows: false,
+	    verticalSwiping: true,
 	});
 					
 
