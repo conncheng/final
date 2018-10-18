@@ -2,7 +2,7 @@ if ($('.home').length) {
 	$('.slick-class').slick({
 		vertical: true,
 		infinite: true,
-	    slidesToShow: 2,
+	    slidesToShow: 3,
 	    slidesToScroll: 1,
 	    arrows: false,
 	    verticalSwiping: true,
